@@ -13,7 +13,7 @@ const Home = () => {
           <p> Empowering businesses worldwide with cutting-edge technology and expert consulting services
             </p>
           <br />
-          <Button variant="outline-success" href="/Services" role="button">Learn more</Button>
+          <Button variant="outline-success" href="/services" role="button">Learn more</Button>
       
           <br />
         </div>

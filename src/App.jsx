@@ -12,6 +12,8 @@ import NavBarMain from './layouts/NavBar';
 import Services from './components/services/Services';
 import Footer from './layouts/Footer';
 import Work from './components/work/Work';
+import DescriptionServices from './components/services/DescriptionServices';
+
 
 function App() {
   return (
@@ -24,6 +26,7 @@ function App() {
                 <Route path='services' element={<Services />} />
                 <Route path='work' element={<Work />} />
                 <Route path='about' element={<About />} />
+                <Route path='descriptionservices' element={<DescriptionServices />} />
                
 
                 <Route path='*' element={ <Navigate replace to='/'/>} />

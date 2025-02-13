@@ -7,3 +7,20 @@ width: 18rem;
 
 
 }
+/* styles.css */
+.green-text {
+    color: black;
+  }
+  
+  .green-background {
+    
+    color:black;
+  }
+  
+  .green-border {
+    border-color: black;
+  }
+  
+  .green-accordion-body {
+    background-color: white /* Un verde claro para el fondo del cuerpo del acordeón */
+  }

@@ -5,10 +5,12 @@ import imagen2 from './imagen/1.png'; // Ajusta la ruta a tu imagen
 
 const Work = () => {
   return (
+    
     <div style={styles.container}>
+   <h2 className="display-4" >Projects<br/></h2>
       <div style={styles.imageContainer}>
         <img src={imagen1} alt="Imagen 1" style={styles.image} />
-        <h3 style={styles.title}>Media Tracked</h3>
+        <h3 style={styles.title}>CMS Media Delivery</h3>
       </div>
       <div style={styles.imageContainer}>
         <img src={imagen2} alt="Imagen 2" style={styles.image} />

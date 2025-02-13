@@ -50,7 +50,7 @@ const Services = () => {
                 <p className="card-text">{service.description}</p>
               </div>
               <div className="card-footer">
-                <a href="/DescriptionServices" className="btn btn-outline-success">
+                <a href="/descriptionServices" className="btn btn-outline-success">
                   Learn More
                 </a>
 

@@ -36,7 +36,7 @@ const DescriptionServices = () => {
   ];
   return (
     <div className="container mt-4">
-      <h2 className="text-center mb-4 green-text">Services List</h2>
+      <h2 className="text-center mb-4">Services List</h2>
       <div className="accordion" id="servicesAccordion">
         {services.map((service, index) => (
           <div className="accordion-item" key={index}>

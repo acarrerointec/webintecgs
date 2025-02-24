@@ -11,7 +11,7 @@ const Footer = () => {
 
                         <Col md={4}>
                             <h5>Location</h5>
-                            <p>Argentina - Buenos Aires <br/>Jose Ingenieros 3135 Of 4<br /> Buenos Aires 1635, AR</p>
+                            <p>José Ingenieros 3135 Of 4<br /> Buenos Aires 1635, AR</p>
                         </Col>
 
                         <Col md={4}>

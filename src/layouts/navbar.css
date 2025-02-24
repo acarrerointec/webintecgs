@@ -3,3 +3,14 @@
     height: auto;
     border-color: white;
 }
+/* Estilo para cuando el cursor pasa sobre los enlaces */
+.nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.1); /* Fondo más oscuro */
+    color: #000; /* Cambia el color del texto si es necesario */
+  }
+  
+  /* Estilo para cuando el enlace está activo (clic) */
+  .nav-link:active {
+    background-color: rgba(0, 0, 0, 0.2); /* Fondo aún más oscuro */
+    color: black; /* Cambia el color del texto si es necesario */
+  }
